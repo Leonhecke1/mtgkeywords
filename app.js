@@ -10,8 +10,8 @@ document.addEventListener('DOMContentLoaded', function() {
       'images/Mtga_hexproof.png',
       'images/Mtga_indestructible.png',
       'images/Mtga_lifelink.png',
-      'images/Menace.png',
-      'images/Duels_Reach_symbol.png',
+      'images/Mtga_menace.png',
+      'images/Mtga_reach.png',
       'images/Mtga_trample.png',
       'images/Mtga_vigilance.png',
 
