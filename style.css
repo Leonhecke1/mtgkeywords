@@ -1,0 +1,35 @@
+.headline-wrapper{
+    display:flex;
+    justify-content: center;
+}
+h1{
+    font-size:40px ;
+}
+.grid-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+  }
+  
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 35px;
+    max-width: 80%; 
+    margin-bottom: 80%;
+    margin-right: 20px;
+  }
+  
+  .grid-image {
+    opacity: 0.2;
+    width: 160%;
+    height: auto;
+    cursor: pointer;
+    transition: opacity 0.3s; 
+  }
+  
+  .opacity {
+    opacity: 1;
+  }
+  
