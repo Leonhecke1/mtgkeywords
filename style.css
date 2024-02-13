@@ -1,3 +1,9 @@
+body{
+  background-color: rgb(182, 161, 117);
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
 .headline-wrapper{
     display:flex;
     justify-content: center;
@@ -18,10 +24,11 @@ h1{
     gap: 35px;
     max-width: 80%; 
     margin-bottom: 80%;
-    margin-right: 20px;
+    margin-right: 28px;
   }
   
   .grid-image {
+    
     opacity: 0.2;
     width: 160%;
     height: auto;
